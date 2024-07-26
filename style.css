@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.titulo{
+    background-color: deeppink;
+    display: flex;
+}
+.imagem1 {
+    width: 20%;
+    padding-left: 10%;
+}
+.titulu {
+    padding-left: 20%;
+    padding: 10%;
+    font-size: 500%;
+
+}
+.titulua{
+    padding: 10%;
+    font-size: 500%;
+}
+.sessão {
+    background-color: crimson;
+    padding-left: 50%;
+    font-size: 150%;
+}
+.imagem2 {
+    width: 25%;
+   padding-left: 38% ;
+}
+.imagem3 {
+    width: 30%;
+    padding-left:34% ;
+}
+.sessão2 {
+    background-color: brown;
+}
+.texto {
+    font-size: 200%;
+}
+.pé {
+    background-color: blue;
+}
+.musica {
+    position: relative;
+    
+    left: 30px;
+    text-decoration: none;
+    color: #000;
+
+}
